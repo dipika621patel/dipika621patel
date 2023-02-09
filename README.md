@@ -1,8 +1,8 @@
-
+[![MasterHead](https://i.imgur.com/j4PZElL.gif)]
 <h1 align="center">Hi 👋, I'm Dipika Patel</h1>
 <h3 align="center">Currently, I am a student pursuing my Master's degree in Computer Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaxcix&label=Profile%20views&color=0e75b6&style=flat" alt="adityaxcix" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipika621patel&label=Profile%20views&color=0e75b6&style=flat" alt="dipika621patel" /> </p>
 
 - 🔭At the moment **Website for a Gaming lounge**
 
