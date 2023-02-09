@@ -1,5 +1,5 @@
 
-[![MasterHead](https://media.gettyimages.com/videos/medium-shot-baboon-pulling-laptop-closer-to-himself-pushing-it-off-video-id712-24?s=640x640)] 
+![MasterHead](https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif) 
    
     
 <h1 align="center">Hi 👋, I'm Dipika Patel</h1>
