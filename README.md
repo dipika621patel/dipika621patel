@@ -1,4 +1,9 @@
-<center> [![MasterHead](https://i.imgur.com/j4PZElL.gif)] </center>
+<div>
+    <center>
+[![MasterHead](https://i.imgur.com/j4PZElL.gif)] 
+    </center>
+    </div>
+    
 <h1 align="center">Hi 👋, I'm Dipika Patel</h1>
 <h3 align="center">Currently, I am a student pursuing my Master's degree in Computer Applications</h3>
 
