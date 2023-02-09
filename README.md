@@ -30,7 +30,7 @@
 
   <br/>
     <a href="https://github.com/dipika621patel/github-readme-stats"><img alt="Dipika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipika621patel&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/dipika621patel/github-readme-stats"><img alt="Dipika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaxcix&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/dipika621patel/github-readme-stats"><img alt="Dipika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipika621patel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
   
