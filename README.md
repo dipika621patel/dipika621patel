@@ -3,7 +3,7 @@
    
     
 <h1 align="center">Hi 👋, I'm Dipika Patel</h1>
-<h3 align="center">Currently, I am a student pursuing my Master's degree in Computer Applications</h3>
+<h3 align="center">Currently, I am a student pursuing Bachelor of Technology </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipika621patel&label=Profile%20views&color=0e75b6&style=flat" alt="dipika621patel" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, HTML5**
 
-- 📫 How to reach me **Contact.AdityaGupta1@gmail.com**
+- 📫 How to reach me **dipika.it1909@mitindore.co.in**
 
 
 ## 💻My Technical Skills
